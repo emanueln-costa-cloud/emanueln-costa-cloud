@@ -1,7 +1,7 @@
 ### Olá! Eu sou Emanuel Costa 👋
 
 - 🔭 Hoje trabalho com Cloud Enginner
-- 🌱 Estudando Python
+- 🌱 Estudando Python e AWS
 - 😄 Pronouns: ele/dele
 
 <div align="center">
